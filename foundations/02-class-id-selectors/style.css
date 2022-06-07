@@ -8,6 +8,6 @@
     color: rgb(10, 10, 227);
     font-size: 36px;
 }
-.odd.three{
+.odd#three{
     font-size: 26px;
 }
