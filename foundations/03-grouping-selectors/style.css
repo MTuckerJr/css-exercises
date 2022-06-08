@@ -5,3 +5,9 @@ background-color: #000000;
 #click2{
     background-color: yellow;
 }
+button{
+    font-size: 28;
+    font-style: 'Helvetica';
+    font-style: 'Times New Roman';
+    font-style: 'sanserif';
+}
