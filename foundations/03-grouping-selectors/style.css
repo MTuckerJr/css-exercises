@@ -1,13 +1,14 @@
-#click1{
-    color: hsl(0, 0%, 100%);
-background-color: #000000;
-}
-#click2{
-    background-color: yellow;
-}
-button{
+.click1,
+.click2{
     font-size: 28px;
     font-style: 'Helvetica';
     font-style: 'Times New Roman';
     font-style: 'sanserif';
+}
+.click1{
+    color: hsl(0, 0%, 100%);
+background-color: #000000;
+}
+.click2{
+    background-color: yellow;
 }
